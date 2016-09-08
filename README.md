@@ -9,4 +9,4 @@ Script to downloaded .hex files automatically into Micro:Bit.
 
 ## Runnning
 
-1. Execute the script with `python autoload_on_microbit`
+1. Execute the script with `python autoload_on_microbit.py`
